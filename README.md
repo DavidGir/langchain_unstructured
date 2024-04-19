@@ -1,1 +1,1 @@
-## This purely serves with the purpose of checking out how LangChain Unstructured works. I will be implementing such an ingester capability to my project [CaemlotAI](https://github.com/DavidGir/CamelotAI).
+## This purely serves with the purpose of checking out how LangChain Unstructured works. I will be implementing such an ingester capability to my project [CamelotAI](https://github.com/DavidGir/CamelotAI).
